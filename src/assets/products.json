@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13 Pro",
+    "price": 85000.00,
+    "image": "/images/apple-iphone-13.webp",
+    "description": "The iPhone 13 Pro features a stunning display and powerful performance."
+  },
+  {
+    "id": 2,
+    "name": "Sony WH-1000XM4",
+    "price": 27500.00,
+    "image": "/images/sony-headphones.avif",
+    "description": "Sony WH-1000XM4 headphones with industry-leading noise cancellation."
+  },
+  {
+    "id": 3,
+    "name": "sofaaa",
+    "price": 15000.00,
+    "image": "/images/galaxy-watch.webp",
+    "description": "Samsung Galaxy Watch with fitness tracking and sleek design."
+  }
+]
