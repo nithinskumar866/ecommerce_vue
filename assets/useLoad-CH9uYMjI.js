@@ -1,0 +1,1 @@
+import{X as e}from"./runtime-core.esm-bundler-b6ffmGb3.js";import{f as t}from"./auth-BCNQn2mw.js";function n(n){let r=e(null),i=e(`loading`),a=e(``);async function o({quiet:e=!1}={}){e||(i.value=`loading`);try{r.value=await n(),i.value=`ready`}catch(e){a.value=t(e),i.value=`error`}}return o(),{data:r,status:i,error:a,reload:o}}export{n as t};
